@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petProj5-cookies-noti/static/css/main.559ae21f.chunk.css",
+    "main.js": "/petProj5-cookies-noti/static/js/main.49cccc2a.chunk.js",
+    "main.js.map": "/petProj5-cookies-noti/static/js/main.49cccc2a.chunk.js.map",
+    "runtime-main.js": "/petProj5-cookies-noti/static/js/runtime-main.0d4a2f8d.js",
+    "runtime-main.js.map": "/petProj5-cookies-noti/static/js/runtime-main.0d4a2f8d.js.map",
+    "static/js/2.8e49fe3c.chunk.js": "/petProj5-cookies-noti/static/js/2.8e49fe3c.chunk.js",
+    "static/js/2.8e49fe3c.chunk.js.map": "/petProj5-cookies-noti/static/js/2.8e49fe3c.chunk.js.map",
+    "index.html": "/petProj5-cookies-noti/index.html",
+    "static/css/main.559ae21f.chunk.css.map": "/petProj5-cookies-noti/static/css/main.559ae21f.chunk.css.map",
+    "static/js/2.8e49fe3c.chunk.js.LICENSE.txt": "/petProj5-cookies-noti/static/js/2.8e49fe3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d4a2f8d.js",
+    "static/js/2.8e49fe3c.chunk.js",
+    "static/css/main.559ae21f.chunk.css",
+    "static/js/main.49cccc2a.chunk.js"
+  ]
+}
