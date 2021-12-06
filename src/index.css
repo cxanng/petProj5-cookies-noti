@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #EBEBF3;
+}
+
+main {
+  min-height: 100vh;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+.cookie-img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  align-self: center;
+  justify-self: center;
+}
+
+section {
+  width: 90vh;
+  margin: 5rem 0;
+}
+
+section.container {
+  display: flex;
+  justify-content: center;
+}
+
+.noti {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: flex;
+  width: 70%;
+  background-color: #748CDB;
+  height: 80px;
+  border-radius: 40px;
+  padding-left: 10px;
+  align-items: center;
+  padding: auto;
+  color: #EBEBF3;
+  font-size:x-large;
+}
+
+.dialog {
+  width: 20%;
+  min-width: 450px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.close-button {
+  content: "X";
+  position: inherit;
+  float: right;
+  right: 10px;
+  top: 10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border-color: #B8AAA2;
+  border-width: 1px;
+  background-color: white;
+}
+
+.choice-button {
+  height: 30px;
+  width: 7rem;
+  margin: 20px 10px;
+  border-radius: 15px;
+  border-width: 1px;
+  border-color: #748CDB;
+  background-color: white;
+  color: #748CDB;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.choice-button:hover {
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.text-area {
+  width: 80%;
+  margin: 5px auto;
+}
+
